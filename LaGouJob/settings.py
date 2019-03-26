@@ -91,4 +91,4 @@ ITEM_PIPELINES = {
 MYSQL_HOST = "localhost"
 MYSQL_DBNAME = "lagou"
 MYSQL_USER = "root"
-MYSQL_PASSWORD = "LiuChen0."
+MYSQL_PASSWORD = "******"
